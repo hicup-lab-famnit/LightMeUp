@@ -1,0 +1,3 @@
+# LightMeUp: Back-print Illumination Paper Display with Multi-stable Visuals
+Repository of the LightMeUp project.
+> Under construction...
