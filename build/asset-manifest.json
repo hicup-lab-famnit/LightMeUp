@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1926dce1.chunk.css",
+    "main.js": "/static/js/main.c07bf896.chunk.js",
+    "main.js.map": "/static/js/main.c07bf896.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fce4c049.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fce4c049.js.map",
+    "static/js/2.aba15a63.chunk.js": "/static/js/2.aba15a63.chunk.js",
+    "static/js/2.aba15a63.chunk.js.map": "/static/js/2.aba15a63.chunk.js.map",
+    "static/js/3.37e13806.chunk.js": "/static/js/3.37e13806.chunk.js",
+    "static/js/3.37e13806.chunk.js.map": "/static/js/3.37e13806.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1926dce1.chunk.css.map": "/static/css/main.1926dce1.chunk.css.map",
+    "static/js/2.aba15a63.chunk.js.LICENSE.txt": "/static/js/2.aba15a63.chunk.js.LICENSE.txt",
+    "static/media/placeholder-02.62a02800.png": "/static/media/placeholder-02.62a02800.png",
+    "static/media/toogleButton_example-01.61650d95.png": "/static/media/toogleButton_example-01.61650d95.png",
+    "static/media/toogleButton_example-02.a0de6b3e.png": "/static/media/toogleButton_example-02.a0de6b3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce4c049.js",
+    "static/js/2.aba15a63.chunk.js",
+    "static/css/main.1926dce1.chunk.css",
+    "static/js/main.c07bf896.chunk.js"
+  ]
+}
